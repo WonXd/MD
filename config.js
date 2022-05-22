@@ -59,15 +59,15 @@ global.ppulsa2 = '088229683561'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287708773367'
-global.nomorown = '6288229683561'
+global.nomorbot = '62882003127450'
+global.nomorown = '62895337447795'
 global.namebot = 'Lord-Botz'
 global.nameown = 'Ammar-Executed'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
+  ['62895337447795'],
   ['6285712420674'],
   ['6287708773367'],
   ['6288229683561', '⌬ Ammar Ganz', true]
